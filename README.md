@@ -94,34 +94,6 @@ True: 1 | Predicted: 1
 
 ---
 
-## 📘 Learnings & Takeaways
-
-This MNIST digit classification project using a custom Convolutional Neural Network (CNN) revealed several important insights about model design, training, and evaluation:
-
-### 1. 🖼️ Image Shape Matters
-MNIST images are grayscale, requiring a single channel (1x28x28).
-
-### 2. 🧠 Model Depth Helps
-Stacking 3 convolutional layers followed by ReLU, pooling, and dropout provided strong performance. Deeper CNNs can extract more robust spatial hierarchies.
-
-### 3. 📊 Log-scale Loss Graphs
-Plotting training loss on a logarithmic scale highlights the exponential decrease of loss, making convergence behavior easier to analyze.
-
-### 4. 🧪 Training vs Test Accuracy
-Tracking both train and test accuracy per epoch helps detect overfitting. A rising and close match between them indicates good generalization.
-
-### 5. 📉 Learning Rate Scheduling
-Using a `StepLR` scheduler reduces learning rate after a few epochs.
-
-### 6. 🔍 Visual Prediction Analysis
-Displaying 10 random test images with predicted and true labels is a quick and intuitive way to check model behavior and catch edge cases.
-
-### 7. 📐 F1 Score for Robust Evaluation
-Beyond accuracy, weighted F1-score gives a better reflection of overall performance, especially helpful when dealing with class imbalance.
-
----
-
-
 ## 👨‍💻 Author
 
 - Name: *Gaurav Sonawane*
