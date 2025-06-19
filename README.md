@@ -124,9 +124,9 @@ Beyond accuracy, weighted F1-score gives a better reflection of overall performa
 
 ## 👨‍💻 Author
 
-- Name: *Your Name*
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn / Blog / Portfolio (optional)
+- Name: *Gaurav Sonawane*
+- GitHub: [@Shadowsaber76](https://github.com/Shadowsaber76)
+- [E-mail](mailto:f20241310@pilani.bits-pilani.ac.in?subject=[GitHub]%20MNIST%20Classifier)
 
 ---
 
