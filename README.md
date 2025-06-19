@@ -78,31 +78,6 @@ Training and test accuracy are evaluated per epoch.
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone this repo**
-   ```bash
-   git clone https://github.com/your-username/mnist-cnn-classifier.git
-   cd mnist-cnn-classifier
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install torch torchvision scikit-learn matplotlib keras
-   ```
-
-3. **Run the training script**
-   ```bash
-   python train.py
-   ```
-
-4. **Output**
-   - Accuracy plots
-   - Loss curve
-   - Sample predictions
-
----
-
 ## 📦 Sample Prediction Output
 
 10 random test samples with model predictions:
