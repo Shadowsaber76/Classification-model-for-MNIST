@@ -58,7 +58,7 @@ Input: (1 x 28 x 28)
 | Learning Rate    | 0.0005              |
 | Weight Decay     | 1e-4                |
 | Batch Size       | 128                 |
-| Epochs           | 10 (configurable)   |
+| Epochs           | 5 (configurable)   |
 | Scheduler        | StepLR (gamma=0.5)  |
 
 Training and test accuracy are evaluated per epoch.
