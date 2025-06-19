@@ -10,7 +10,7 @@ A Convolutional Neural Network (CNN) built in PyTorch to classify handwritten di
 - **Model**: 3-layer CNN
 - **Framework**: PyTorch
 - **Goal**: Multiclass classification (10 classes: digits 0–9)
-- **Accuracy**: Achieves >98% test accuracy in 10 epochs
+- **Accuracy**: Achieves >99% test accuracy in 5 epochs
 
 ---
 
