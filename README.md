@@ -69,12 +69,12 @@ Training and test accuracy are evaluated per epoch.
 
 ### 🔺 Accuracy Plot
 - Compares **training vs. test accuracy** across epochs.
+- 
+![Train VS TEST](https://github.com/Shadowsaber76/Classification-model-for-MNIST/blob/main/Data/Train%20vs.%20Test%20Accuracy%20Curve.png?raw=true)
 
 ### 📉 Smoothed Loss Curve
 - Shows **loss vs. iterations** with smoothing using moving average.
 - Log-scaled Y-axis to visualize exponential drop.
-
-![Train VS TEST](https://github.com/Shadowsaber76/Classification-model-for-MNIST/blob/main/Data/Train%20vs.%20Test%20Accuracy%20Curve.png?raw=true)
 
 ![LOSS VS ITERATIONS](https://github.com/Shadowsaber76/Classification-model-for-MNIST/blob/main/Data/Loss%20vs.%20Iterations.png?raw=true)
 
